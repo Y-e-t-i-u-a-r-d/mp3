@@ -1,6 +1,6 @@
 # MP3
 
-This repository will serve as a place where mp3 files will be hosted to download from (here)[https://music.yetiuard.wtf/]
+This repository will serve as a place where mp3 files will be hosted to download from [here](https://music.yetiuard.wtf/)
 
 ## Using the torrent file
 
